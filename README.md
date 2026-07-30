@@ -12,7 +12,7 @@ SQL project for Data Analytics
 - Window Function
 
   ## Projects
-  - PhonePe Transaction Analysis ( Coming Soon)
+  - PhonePe Transaction Analysis
   - Employee Database Analysis ( Coming Soon)
   - Sales Data Analysis ( Coming Soon)
  
